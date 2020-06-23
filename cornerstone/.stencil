@@ -1,0 +1,11 @@
+{
+  "normalStoreUrl": "https://trucut-tools.mybigcommerce.com",
+  "accessToken": "4behvzbq8q5msnah7ssybz4oo3pe1qn",
+  "port": "3001",
+  "customLayouts": {
+    "brand": {},
+    "category": {},
+    "page": {},
+    "product": {}
+  }
+}
